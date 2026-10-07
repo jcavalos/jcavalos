@@ -1,0 +1,17 @@
+<svg width="620" height="190" viewBox="0 0 620 190" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="620" height="190" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <text x="20" y="30" font-family="Consolas, Menlo, monospace" font-size="14" font-weight="bold" fill="#58a6ff">jcavalos</text>
+  <text x="600" y="30" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="10" fill="#6e7681">at a glance</text>
+  <line x1="20" y1="42" x2="600" y2="42" stroke="#21262d" stroke-width="1"/>
+  
+    <rect x="20.0" y="60" width="182.7" height="80" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+    <text x="111.3" y="102" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="26" font-weight="bold" fill="#e6edf3">34</text>
+    <text x="111.3" y="124" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="10.5" fill="#7ee787">Public repos</text>
+    <rect x="218.7" y="60" width="182.7" height="80" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+    <text x="310.0" y="102" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="26" font-weight="bold" fill="#e6edf3">3</text>
+    <text x="310.0" y="124" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="10.5" fill="#7ee787">Followers</text>
+    <rect x="417.3" y="60" width="182.7" height="80" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+    <text x="508.7" y="102" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="26" font-weight="bold" fill="#e6edf3">20</text>
+    <text x="508.7" y="124" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="10.5" fill="#7ee787">Following</text>
+  <text x="20" y="176" font-family="Consolas, Menlo, monospace" font-size="9" fill="#484f58">datos reales de github.com/jcavalos - actualiza al regenerar</text>
+</svg>
